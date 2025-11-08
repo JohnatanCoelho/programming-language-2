@@ -22,12 +22,12 @@ public class ItemCompra implements Calculavel {
            return precoComDescontoMax * quantidade;
 
         } else if(quantidade >= 2){
-
             double precoComDesconto =  produto.getPreco() - (produto.getPreco() * (desconto / 100));
             return precoComDesconto * quantidade;
-        } else {
 
-            return produto.getPreco();
+        } else {
+            return produto.getPreco() * quantidade;
+
         }
     }
 
