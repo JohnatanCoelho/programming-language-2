@@ -1,4 +1,4 @@
-package edu.fatec.lp2.exercicio1;
+package edu.fatec.lp2.exercicio1.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class MsgTexto extends Mensagem{
+public class MsgTexto extends Mensagem {
 
     private int numChar;
 

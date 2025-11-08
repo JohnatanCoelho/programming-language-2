@@ -1,6 +1,7 @@
-package edu.fatec.lp2.exercicio1;
+package edu.fatec.lp2.exercicio1.impl;
 
-import lombok.Getter;
+import edu.fatec.lp2.exercicio1.model.Contatinho;
+import edu.fatec.lp2.exercicio1.model.Mensagem;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor

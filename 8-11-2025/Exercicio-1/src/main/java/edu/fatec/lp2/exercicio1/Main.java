@@ -1,6 +1,7 @@
-package edu.fatec.lp2.main;
+package edu.fatec.lp2.exercicio1;
 
-import edu.fatec.lp2.exercicio1.*;
+import edu.fatec.lp2.exercicio1.impl.Whatsapp;
+import edu.fatec.lp2.exercicio1.model.*;
 
 public class Main {
 

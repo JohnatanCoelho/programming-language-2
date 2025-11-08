@@ -1,4 +1,4 @@
-package edu.fatec.lp2.exercicio1;
+package edu.fatec.lp2.exercicio1.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
